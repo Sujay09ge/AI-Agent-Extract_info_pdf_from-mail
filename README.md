@@ -29,3 +29,5 @@ Enable "Use local AI (Ollama)" in the app. Ollama runs the language model locall
 
 ## Important scope
 This is a learning prototype. It does not monitor a live Outlook inbox. Direct inbox monitoring requires an authenticated mail protocol/API; this version avoids that setup by processing exported email files and uploaded PDFs. Scanned PDFs need OCR. Do not use confidential company mail without authorization and appropriate security controls.
+# AI-Agent-Extract_info_pdf_from-mail
+An AI-powered agent that extracts, processes, and organizes relevant information from PDF attachments received via email. Automates document information extraction to reduce manual effort and streamline email-based document processing workflows.
