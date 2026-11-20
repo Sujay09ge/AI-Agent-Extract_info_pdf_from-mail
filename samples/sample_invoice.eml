@@ -1,0 +1,22 @@
+From: billing@northwind-demo.example
+To: learner@example.com
+Subject: Invoice INV-2026-1042
+Date: Fri, 20 Nov 2026 09:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hello Accounts Team,
+
+Please find the invoice details below.
+Supplier: Northwind Demo Supplies
+Invoice Number: INV-2026-1042
+Invoice Date: 20 November 2026
+Due Date: 20 December 2026
+Subtotal: INR 12000.00
+Tax: INR 2160.00
+Total Amount: INR 14160.00
+
+Please confirm receipt.
+
+Regards,
+Northwind Demo Supplies
